@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "your_username";
 $password = "your_password";
-$dbname = "image_upload";
+$dbname = "cars";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
